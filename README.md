@@ -1,28 +1,33 @@
-# nlp-text-classification
-## Objective
-Implement NLP preprocessing and classification.
+# NLP Preprocessing and Text Classification
 
-## Techniques
+## Objective
+To implement NLP preprocessing techniques and build a text classification model.
+
+## Dataset
+SMS Spam Collection Dataset
+
+## 🔧 Techniques Used
 - Tokenization
 - Stopword Removal
 - Stemming
 - Lemmatization
-- TF-IDF
+- TF-IDF & CountVectorizer
 
-## Model
-Naive Bayes
+## Models Used
+- Naive Bayes
+- Logistic Regression
 
-## Results
-High accuracy spam detection.
+## Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-score
 
-## Run
-pip install -r requirements.txt
-""")
+## Visualization
+- Spam vs Ham Distribution
+- Message Length Analysis
+- Confusion Matrix
+- Model Comparison Graph
 
-with open("requirements.txt", "w") as f:
-    f.write("""pandas
-numpy
-nltk
-scikit-learn
-matplotlib
-""")
+## Result
+High accuracy achieved in spam detection.
