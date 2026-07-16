@@ -591,3 +591,5 @@ This project is intended for education and defensive spam filtering. It should n
 - GitHub: [kompalwargangotri](https://github.com/kompalwargangotri)
 
 - LinkedIn: [Gangotri Kompalwar](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
+
+- Portfolio: [Gangotri Kompalwar](https://kompalwargangotri.github.io/)
